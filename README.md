@@ -1,1 +1,3 @@
 # Speech-Command-Recognition
+In the past few years there has been a boost in research of machine learning algorithms in the field of audio processing. This has been possible now because of the
+abundance of audio data available for analysis, specially speech data. This project explores various deep learning algorithms that can be applied to speech processing. In-depth analysis of the feature extraction techniques like Mel-frequency cepstrum coefficients (MFCC), and deep learning algorithms like Convolution Neural Network (CNN), Long short-term memory (LSTM) and hybrid models like CNN + LSTM have been presented. The evaluation of these models have also been provided in the report.
